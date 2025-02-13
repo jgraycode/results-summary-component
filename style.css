@@ -92,6 +92,7 @@ main {
   display: flex;
   background-color: var(--white);
   border-radius: 32px;
+  box-shadow: 0 30px 60px rgba(60, 107, 236, 0.15);
 }
 
 .scorecard {
