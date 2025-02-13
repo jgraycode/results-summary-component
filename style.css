@@ -165,6 +165,11 @@ p {
   width: 384px;
 }
 
+.summary .heading,
+.category_score {
+  color: var(--dark-grey);
+}
+
 .category-wrapper {
   display: grid;
   grid-template-rows: 4;
